@@ -1,5 +1,4 @@
 .DS_Store
 *.pdf
 package-lock.json
-build
-x86_64-linux-gnu
+lib
